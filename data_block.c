@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 #include "data_block.h"
 
 struct DataBlock {
