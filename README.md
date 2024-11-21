@@ -1,0 +1,1 @@
+A program for encrypting and decrypting files using AES (Advanced Encryption Standard).
